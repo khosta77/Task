@@ -1,0 +1,3 @@
+[submodule "project/lib/StepanPlo"]
+	path = project/lib/
+	url = git@github.com:khosta77/StepanPlot.git
